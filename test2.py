@@ -1,13 +1,13 @@
 
 
-#
-# for num in range(100,201):
-#     # if num>1:
-#         for i in range(2,num):
-#             if (num%i)==0:
-#                 break
-#         else:
-#             print(num)
+
+for num in range(100,201):
+    # if num>1:
+        for i in range(2,num):
+            if (num%i)==0:
+                break
+        else:
+            print(num)
 
 
 # a=[12,34,11,45,67,87,65,23,45,67,89,9,455,342,322,54,31,43,44,222,87,54,35,26,17,15]

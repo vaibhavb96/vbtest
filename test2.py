@@ -19,16 +19,16 @@ print("hello bollywood")
 # a=['']
 # a.sort()
 
-# without using sort descending order
-# new_a=[]
-# while a:
-#     minimum=a[0]
-#     for x in a:
-#         if x>minimum:
-#             minimum=x
-#     new_a.append(minimum)
-#     a.remove(minimum)
-# print(new_a)
+without using sort descending order
+new_a=[]
+while a:
+    minimum=a[0]
+    for x in a:
+        if x>minimum:
+            minimum=x
+    new_a.append(minimum)
+    a.remove(minimum)
+print(new_a)
 
 
 # word = str(input("enter a word to check"))
